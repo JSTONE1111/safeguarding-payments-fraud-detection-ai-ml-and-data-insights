@@ -11,7 +11,7 @@ psycopg2-binary==2.9.9
 python-dateutil==2.9.0.post0
 s3transfer==0.10.2
 six==1.16.0
-urllib3==2.2.3
+urllib3==2.6.0
 pandas==2.2.3
 scikit-learn==1.5.2
 transformers==4.45.2
